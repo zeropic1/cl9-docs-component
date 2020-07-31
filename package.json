@@ -1,6 +1,6 @@
 {
     "name": "cl9-docs-component",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "description": "React Docs Component for cl9 docs",
     "main": "./lib/index.js",
     "license": "MIT",
